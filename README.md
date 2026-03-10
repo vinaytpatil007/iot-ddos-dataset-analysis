@@ -205,9 +205,6 @@ Please also cite the original dataset papers and official dataset sources.
 
 Code in this repository should be released under the project’s chosen open-source license.
 
-Recommended placeholder:
-
-`MIT License`
 
 Dataset files themselves are subject to the original providers’ licenses and terms of use.
 
@@ -216,4 +213,4 @@ Dataset files themselves are subject to the original providers’ licenses and t
 **Vinay T. Patil**  
 Department of Computer Engineering  
 Kavayitri Bahinabai Chaudhari North Maharashtra University  
-Email: `vinay@example.com`
+Email: `vinayt.patil@outlook.com`
