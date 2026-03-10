@@ -1,0 +1,14 @@
+Dataset,Feature1,Feature2,Correlation
+CICIoT2023,rst_count,rst_flag_number,0.9999235424015898
+CICIoT2023,fin_count,fin_flag_number,0.9997896161013675
+CICIoT2023,syn_count,syn_flag_number,0.9997466572915439
+CICIoT2023,rst_count,fin_count,0.9885327398831484
+CICIoT2023,fin_count,rst_flag_number,0.9884535356190934
+CICIoT2023,rst_flag_number,fin_flag_number,0.9882746527435979
+CICIoT2023,rst_count,fin_flag_number,0.9882703084016145
+CICIoT2023,ack_count,psh_flag_number,0.9763074397382234
+CICDDoS2019,fwd_packet_length_mean,fwd_packet_length_max,0.9997163124562627
+CICDDoS2019,fwd_packet_length_mean,fwd_packet_length_min,0.9995506968489457
+CICDDoS2019,fwd_packet_length_min,fwd_packet_length_max,0.9989093990113577
+CICDDoS2019,total_length_of_fwd_packets,total_fwd_packets,0.9835388689618408
+CICDDoS2019,flow_iat_max,flow_iat_std,0.9629307148175902

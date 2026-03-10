@@ -1,0 +1,14 @@
+Dataset,Redundant Feature Pairs,Correlation Value
+CICIoT2023,rst_count vs rst_flag_number,0.9999235424015898
+CICIoT2023,fin_count vs fin_flag_number,0.9997896161013676
+CICIoT2023,syn_count vs syn_flag_number,0.999746657291544
+CICIoT2023,rst_count vs fin_count,0.9885327398831484
+CICIoT2023,fin_count vs rst_flag_number,0.9884535356190934
+CICIoT2023,rst_flag_number vs fin_flag_number,0.988274652743598
+CICIoT2023,rst_count vs fin_flag_number,0.9882703084016145
+CICIoT2023,ack_count vs psh_flag_number,0.9763074397382234
+CICDDoS2019,fwd_packet_length_mean vs fwd_packet_length_max,0.9997163124562628
+CICDDoS2019,fwd_packet_length_mean vs fwd_packet_length_min,0.9995506968489456
+CICDDoS2019,fwd_packet_length_min vs fwd_packet_length_max,0.9989093990113576
+CICDDoS2019,total_length_of_fwd_packets vs total_fwd_packets,0.9835388689618408
+CICDDoS2019,flow_iat_max vs flow_iat_std,0.9629307148175902

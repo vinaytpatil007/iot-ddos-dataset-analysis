@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Raw datasets
+/CIC_IOT_Dataset2023/
+/CICDDoS2019/
+/TON_IoT Dataset/
+/BoT-IOT/
+
+# Large processed outputs
+/processed_outputs/
+
+# Generated Word documents
+*.docx
+
+# Command/stdout logs
+*_stdout.txt
+
+# Submission package binaries
+/submission_package/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
